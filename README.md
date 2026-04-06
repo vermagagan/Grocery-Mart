@@ -90,15 +90,6 @@ GroceryMart is a fully programmatic iOS grocery shopping app that lets users bro
 
 ---
 
-## 🗺️ iOS Journey Series
-
-| # | App | Key Concepts |
-|---|---|---|
-| 1 | Personal Business Card App | Programmatic UI, Auto Layout, UserDefaults, Modals |
-| 2 | FitLife Onboarding App | UIPageViewController, UITabBarController, SceneDelegate, CATransition |
-| **3** | **GroceryMart** | **UITableView, UICollectionView, Diffable Data Source, Singleton** |
-
----
 
 ## 👨‍💻 Author
 
