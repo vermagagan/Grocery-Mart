@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .systemBackground
-        title = "GroceryMart"
+        title = "Grocery Mart"
         navigationItem.rightBarButtonItem = UIBarButtonItem(
             image: UIImage(systemName: "cart.fill"),
             style: .plain,
